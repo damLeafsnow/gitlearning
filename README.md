@@ -1,2 +1,4 @@
 # gitlearning
-test
+both c++ test 
+and 
+git test
