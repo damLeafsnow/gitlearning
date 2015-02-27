@@ -64,6 +64,14 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClInclude Include="controller.h" />
+    <ClInclude Include="DList.h" />
+    <ClInclude Include="DUnit.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="DList.cpp" />
+    <ClCompile Include="DUnit.cpp" />
+    <ClCompile Include="main.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
